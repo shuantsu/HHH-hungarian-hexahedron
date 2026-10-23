@@ -1,0 +1,26 @@
+[OPTIONS]
+TITLE=Hungarian HexaHedron Help
+COMPRESS=HIGH
+OLDKEYPHRASE=0
+COPYRIGHT=HHH Version 1.3 Copyright Lawrence Leinweber 1998
+[CONFIG]
+BrowseButtons()
+[FILES]
+HHHhelp.rtf
+[BITMAPS]
+diagram.bmp
+[MAP]
+shareware			0
+order				1
+distribution_notes		2
+complete			3
+cube_basics			4
+the_main_cube			5
+moving_the_cube			6
+editing_the_cube		7
+the_generator			8
+solving_the_cube                9
+cube_files			10
+file_cube_operations		11
+cube_history			12
+glossary_and_bibliography	13

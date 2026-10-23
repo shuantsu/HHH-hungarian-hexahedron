@@ -1,0 +1,36 @@
+[OPTIONS]
+TITLE=Hungarian HexaHedron Hint
+COMPRESS=HIGH
+OLDKEYPHRASE=0
+COPYRIGHT=HHH Version 1.3 Copyright Lawrence Leinweber 1998
+[CONFIG]
+CBB("BTN_SEARCH", "Contents()")
+[FILES]
+HHHhint.rtf
+[MAP]
+hint0		0
+hint1		1
+hint2		2
+hint3		3
+hint4		4
+hint5		5
+hint6		6
+hint7		7
+hint8		8
+hint9		9
+hint10		10
+hint11		11
+hint12		12
+contents0	13
+contents1	14
+contents2	15
+contents3	16
+contents4	17
+contents5	18
+contents6	19
+contents7	20
+contents8	21
+contents9	22
+contents10	23
+contents11	24
+contents12	25
